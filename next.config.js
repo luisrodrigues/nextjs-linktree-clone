@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
-}
+  images: {
+    domains: ["luiro-blog.vercel.app"],
+  },
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
