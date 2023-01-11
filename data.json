@@ -3,13 +3,13 @@
     "avatar": "https://luiro-blog.vercel.app/_next/image?url=%2Fimages%2Fprofile.jpg&w=384&q=75",
     "links": [
         {
-            "title": "Vercel",
-            "url": "https://vercel.com/solutions/nextjs",
+            "title": "Vercel's website",
+            "href": "https://vercel.com/solutions/nextjs",
             "image": "https://avatars.githubusercontent.com/u/14985020?s=280&v=4"
         },
         {
-            "title": "NextJS",
-            "url": "https://nextjs.org/"
+            "title": "NextJS's website",
+            "href": "https://nextjs.org/"
         }
     ],
     "socials": [
