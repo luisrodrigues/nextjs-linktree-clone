@@ -15,15 +15,15 @@
     "socials": [
         {
             "title": "Github",
-            "url": "https://github.com/luisrodrigues"
-        },
-        {
-            "title": "Linkedin",
-            "url": "https://www.linkedin.com/in/lurodrigues96/"
+            "href": "https://github.com/luisrodrigues"
         },
         {
             "title": "Twitter",
-            "url": "https://twitter.com/0xGoz"
+            "href": "https://twitter.com/0xGoz"
+        },
+        {
+            "title": "Linkedin",
+            "href": "https://www.linkedin.com/in/lurodrigues96/"
         }
     ]
 }
