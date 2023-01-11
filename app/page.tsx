@@ -102,7 +102,7 @@ export default function Home() {
       {data.links.map((link) => (
         <LinkCard key={link.href} {...link} />
       ))}
-      <div className="flex items-center gap-4 mt-6">
+      <div className="flex items-center gap-4 mt-6 text-white">
         {data.socials.map((link) => {
           if (link.href.includes("twitter")) {
             return <TwitterIcon {...link} />;
